@@ -3,4 +3,6 @@ Changes made by Khush.
 this is a change in the file: first.txt
 new change
 
-the above changes are made in the master branch
+the above changes are made in the master branch.
+
+this change is added in bugfix branch.
